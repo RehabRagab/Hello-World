@@ -1,2 +1,2 @@
 # Hello-World
-say hello zozo
+say hello
